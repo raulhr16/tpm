@@ -131,5 +131,23 @@ Tengo muchos hobbies que han sido parte importante de mi vida, pero si tuviera q
 ]]></content>
         </item>
         
+        <item>
+            <title>prueba introduccion a la implantacion de aplicaciones web</title>
+            <link>https://tpm-74xe.onrender.com/posts/post5/</link>
+            <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://tpm-74xe.onrender.com/posts/post5/</guid>
+            <description>Examen IAW
+Raúl herrera ruiz</description>
+            <content type="html"><![CDATA[<figure><img src="/posts/post5/images/imagen1.png"
+         alt="Examen IAW"/><figcaption>
+            <p>Examen IAW</p>
+        </figcaption>
+</figure>
+
+<p>Raúl herrera ruiz</p>
+]]></content>
+        </item>
+        
     </channel>
 </rss>
